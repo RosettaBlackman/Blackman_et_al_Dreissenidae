@@ -4,4 +4,6 @@ R code and data used in Blackman et al (2019) Simple, sensitive and species-spec
 
 .csv files containing the data used in GLM plots based on p/a detection of mussels in a mesocosm experiment.
 
+.FASTA files showing the alignments from both species in this study.
+
 
